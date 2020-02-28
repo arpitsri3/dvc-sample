@@ -1,0 +1,6 @@
+[core]
+    remote = s3remote
+['remote "myremote"']
+    url = C:\Users\212752625\Downloads\EdisonAI\DVC\dvc-remote
+['remote "s3remote"']
+    url = s3://gehc-us-west-2-328098226554-test-eai-data/dvc-sample
